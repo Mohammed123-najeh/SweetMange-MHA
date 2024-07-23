@@ -5,48 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9588f6a-9ee6-48eb-865f-b9c5ecdbd223" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/najehfxsoftware/LoginPageControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/najehfxsoftware/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/najehfxsoftware/SignupControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/najehfxsoftware/WlcomeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/production_cods/LoginSource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/production_cods/SignupSource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/production_cods/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/najehfxsoftware/SignUpControl.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/najehfxsoftware/WelcomePage.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/najehfxsoftware/images/05536d1815aecfd5bdf5caf8297543dd.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/najehfxsoftware/images/0b114edd23167aaae5b453c007b59dea-modified.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/najehfxsoftware/images/7fd7ca3b879fd2fe9b2b8f14a084aba5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/najehfxsoftware/images/cc7e4d00381dad063e480efe28295353.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/najehfxsoftware/images/circle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/najehfxsoftware/images/cropped_image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/najehfxsoftware/images/cupcake-with-berries-splash-sweet-shop-logo-vector-18925385.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/najehfxsoftware/images/d62fefddddacc8c457dbbbe6c95226b5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/najehfxsoftware/images/e56b841924ac729935e858cb59535fb7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/najehfxsoftware/images/images (1).jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/najehfxsoftware/images/m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/najehfxsoftware/images/person.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/najehfxsoftware/images/sign-out-circle-icon-512x455-9y7st1so.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/najehfxsoftware/images/sweetimageIcon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/najehfxsoftware/login.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/najehfxsoftware/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/najehfxsoftware/text.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/AcceptanceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/steps/LoginSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/steps/signUPsteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/use_cases/Login.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/use_cases/signUP.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +21,14 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/Sweet-Management-System" value="MohammedNajehh" />
+      </map>
+    </option>
+    <option name="RECENT_COMMON_BRANCH" value="MohammedNajehh" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -80,21 +46,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_directory_selection&quot;: &quot;C:/Users/Mohammad Najeh/demo8/demo2/NajehFXSoftware/src/main/java&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Mohammad Najeh/demo8/demo2/NajehFXSoftware/src/main/resources/com/example/najehfxsoftware/images&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.47471264&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "MohammedNajehh",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_directory_selection": "C:/Users/Mohammad Najeh/demo8/demo2/NajehFXSoftware/src/main/java",
+    "last_opened_file_path": "C:/Users/Mohammad Najeh/demo8/demo2/NajehFXSoftware/src/main/resources/com/example/najehfxsoftware/images",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.47471264",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Mohammad Najeh\demo8\demo2\NajehFXSoftware\src\main\resources\com\example\najehfxsoftware\images" />
@@ -108,7 +74,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.AcceptanceTest">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.najehfxsoftware.Main" />
       <module name="NajehFXSoftware" />
@@ -199,8 +165,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.AcceptanceTest" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.AcceptanceTest" />
         <item itemvalue="Cucumber Java.Feature: Login" />
         <item itemvalue="Cucumber Java.Scenario: Successful login with valid credentials" />
         <item itemvalue="Cucumber Java.Scenario: Successful login" />
